@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="7" total="8" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4413" started-at="2021-10-08T16:48:00 IST" finished-at="2021-10-08T16:48:04 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4413" started-at="2021-10-08T16:48:00 IST" finished-at="2021-10-08T16:48:04 IST">
+      <class name="day2.PositiveContactList">
+        <test-method status="PASS" signature="postAddingContact()[pri:0, instance:day2.PositiveContactList@59e5ddf]" name="postAddingContact" duration-ms="4304" started-at="2021-10-08T16:48:00 IST" description="Getting specific Contact List" finished-at="2021-10-08T16:48:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAddingContact -->
+      </class> <!-- day2.PositiveContactList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
